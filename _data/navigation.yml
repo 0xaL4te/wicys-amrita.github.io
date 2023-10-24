@@ -17,5 +17,8 @@ main:
     
   - title: "Contact Me"
     url: /contact/
+
+  - title: "Events"
+    url: /CAM Events/
     
     
