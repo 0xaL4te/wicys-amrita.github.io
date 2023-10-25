@@ -3,6 +3,9 @@ layout: archive
 title: "Events"
 permalink: /CAM Events/
 author_profile: true
+redirect_from: 
+  - /Event/
+  - /Event.html
 ---
 
 
