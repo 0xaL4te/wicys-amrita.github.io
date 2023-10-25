@@ -20,6 +20,8 @@ Join us in celebrating Cyber Awareness Month with an innovative twist! As part o
 
 The goal of this competition is to explore the capabilities of generative AI in the realm of visual art, where the contestants are expected to leverage AI to generate captivating and original images, pushing the boundaries of creativity and technology, all while staying true to the assigned theme
 
+<img src ="../images/Generative_AI_poster.png" width=400>
+
 Eligibility:
 •	Anyone can participate
 •	Individual event
@@ -90,5 +92,7 @@ and simulate UN committees. From this experience, not only do they
 become involved and debate about pressing current issues, but also
 broaden their perspectives and their knowledge of international relations
 and the UN, allowing delegates to develop their critical thinking and
-reasoning skills.
+reasoning skills
+
+<img src ="../images/MUN.png" width=400>
 
