@@ -81,9 +81,14 @@ The digital game involves a trade-off between convenience and privacy. People of
 
 
 <h2> CyberMUN</h2>
-<p>
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <br/>
-magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br/>
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat <br/>
-cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-<br/> <br/>
+
+MUN is a simulation of the United Nations (UN) that aims to
+educate the participants about civics, effective communication,
+globalization and multilateral diplomacy.
+In MUN, students participate as “delegates” from the UN Member States
+and simulate UN committees. From this experience, not only do they
+become involved and debate about pressing current issues, but also
+broaden their perspectives and their knowledge of international relations
+and the UN, allowing delegates to develop their critical thinking and
+reasoning skills.
+
