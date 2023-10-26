@@ -23,67 +23,67 @@ The goal of this competition is to explore the capabilities of generative AI in 
 <img src ="../images/Generative_AI_poster.png" width=400>
 
 Eligibility:
-•	Anyone can participate
-•	Individual event
+•	Anyone can participate<br/>
+•	Individual event<br/>
+<br/>
+Submission Guidelines: <br/>
+•	Image format for submissions: JPEG, PNG, JPG, TIFF, HEIC<br/>
+•	Single Submission only.<br/>
+•	Submission through only MS Forms (which will be provided by us)<br/>
+•	All the prompts and images submitted should be appropriate and should not contain explicit content. A panel will go through the submitted entries to check for NSFW content and any submission which is found to be <br/>violating these regulations will be immediately disqualified and might even be subjected to penalties.<br/>
+Resources: <br/>
+For beginners who want to explore the world of Gen-AI, we’d like to provide a few resources:<br/>
+•	https://hotpot.ai/art-generator?s=dalle-mini<br/>
+•	https://stablediffusionweb.com/#demo<br/>
+•	https://stablediffusionweb.com/StableDiffusionXL<br/>
+•	https://www.seaart.ai/home<br/>
+<br/>
+<br/>
 
-Submission Guidelines: 
-•	Image format for submissions: JPEG, PNG, JPG, TIFF, HEIC
-•	Single Submission only.
-•	Submission through only MS Forms (which will be provided by us)
-•	All the prompts and images submitted should be appropriate and should not contain explicit content. A panel will go through the submitted entries to check for NSFW content and any submission which is found to be violating these regulations will be immediately disqualified and might even be subjected to penalties.
-Resources: 
-For beginners who want to explore the world of Gen-AI, we’d like to provide a few resources:
-•	https://hotpot.ai/art-generator?s=dalle-mini
-•	https://stablediffusionweb.com/#demo
-•	https://stablediffusionweb.com/StableDiffusionXL
-•	https://www.seaart.ai/home
-
-
-
-Below listed are the necessary details that the document that is to be submitted along with the generated images must include:
-
-•	The details of the tool(s)/website(s) used need to be given - mentioning the models used along with the necessary generation data.
-•	A small write-up for each image generated as to how it is related to the theme, as it adds to the context for the image generated. This will help the judges in understanding the thought process behind the submission, making it easier for the grading process.
-
-Please ensure the following details are filled out in the Microsoft forms sent out by us for registering for the competition:
-•	Full Name
-•	Email Address
-•	Roll number
-•	Year of Study
-•	Department
-•	Phone Number (optional)
-•	The level of your experience with Generative AI
-
-
-Given below are the criteria according to which the submissions will be judged:
-•	Relationship between the theme and images generated
-•	Creativity
-•	Use of prompts and their relationship with the theme and the images
-
-Consent and release:
-The work produced by the winners of the contest may be uploaded on the social media of WiCys Amrita. If you would be okay with the release of your work on the social media handles in case you win, please mention that in the form.
-
-Prizes and rewards:
- (yet to be decided)
-
-
-Contact details:
-In case of any doubts that need clarification, please feel free to reach out to:
-Yaswanth Gadamsetti- +91 9133332323
-Hemadhri P C- +91 9952348394
-
-
-Theme:
-
-Digital technologies: tensions in privacy and data : 
-
+Below listed are the necessary details that the document that is to be submitted along with the generated images must include:<br/>
+<br/>
+•	The details of the tool(s)/website(s) used need to be given - mentioning the models used along with the necessary generation data.<br/>
+•	A small write-up for each image generated as to how it is related to the theme, as it adds to the context for the image generated. This will help the judges in understanding the thought process behind the submission,<br/> making it easier for the grading process.<br/>
+<br/>
+Please ensure the following details are filled out in the Microsoft forms sent out by us for registering for the competition:<br/>
+•	Full Name<br/>
+•	Email Address<br/>
+•	Roll number<br/>
+•	Year of Study<br/>
+•	Department<br/>
+•	Phone Number (optional)<br/>
+•	The level of your experience with Generative AI<br/>
+<br/>
+<br/>
+Given below are the criteria according to which the submissions will be judged:<br/>
+•	Relationship between the theme and images generated<br/>
+•	Creativity<br/>
+•	Use of prompts and their relationship with the theme and the images<br/>
+<br/>
+Consent and release:<br/>
+The work produced by the winners of the contest may be uploaded on the social media of WiCys Amrita. If you would be okay with the release of your work on the social media handles in case you win, please mention that in the form.<br/>
+<br/>
+Prizes and rewards:<br/>
+ (yet to be decided)<br/>
+<br/>
+<br/>
+Contact details:<br/>
+In case of any doubts that need clarification, please feel free to reach out to:<br/>
+Yaswanth Gadamsetti- +91 9133332323<br/>
+Hemadhri P C- +91 9952348394<br/>
+<br/>
+<br/>
+Theme:<br/>
+<br/>
+Digital technologies: tensions in privacy and data : <br/>
+<br/>
 The digital game involves a trade-off between convenience and privacy. People often willingly share personal information online in exchange for free services, but they may not fully understand the consequences of this data sharing. The tension arises when individuals feel that their privacy has been invaded or their data misused. It is related to the tagline Understanding the game behind the Internet use.
-
-
-
-
-<h2> CyberMUN</h2>
-
+<br/>
+<br/>
+<br/>
+<br/>
+<h2> CyberMUN</h2><br/>
+<br/>
 MUN is a simulation of the United Nations (UN) that aims to
 educate the participants about civics, effective communication,
 globalization and multilateral diplomacy.
