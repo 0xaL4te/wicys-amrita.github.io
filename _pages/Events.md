@@ -22,7 +22,7 @@ The goal of this competition is to explore the capabilities of generative AI in 
 
 <img src ="../images/Generative_AI_poster.png" width=400>
 
-Eligibility:
+Eligibility:<br/>
 •	Anyone can participate<br/>
 •	Individual event<br/>
 <br/>
